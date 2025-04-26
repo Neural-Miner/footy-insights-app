@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/footy-insights-app/static/css/main.dd4345dc.css",
+    "main.js": "/footy-insights-app/static/js/main.4cbdf909.js",
+    "static/media/background_video.mp4": "/footy-insights-app/static/media/background_video.c7ce13f0d5c390ae3df2.mp4",
+    "index.html": "/footy-insights-app/index.html",
+    "main.dd4345dc.css.map": "/footy-insights-app/static/css/main.dd4345dc.css.map",
+    "main.4cbdf909.js.map": "/footy-insights-app/static/js/main.4cbdf909.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd4345dc.css",
+    "static/js/main.4cbdf909.js"
+  ]
+}
